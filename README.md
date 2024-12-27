@@ -1,4 +1,4 @@
-# Tham khảo bởi © 2024 Phan Xuan Quang / VNPAY.NET và bài này có tích hợp cơ sở dữ liệu MariaDB để lưu thông tin chuyển khoản.
+# Tham khảo bởi © 2024 Phan Xuan Quang / VNPAY.NET và bài này có tích hợp cơ sở dữ liệu MICROSOFT SQL SEVER để lưu thông tin chuyển khoản.
 
 Xem mã nguồn và dự án tại gốc tại: [GitHub - Phan Xuan Quang / VNPAY.NET](https://github.com/phanxuanquang/VNPAY.NET.git)
 
