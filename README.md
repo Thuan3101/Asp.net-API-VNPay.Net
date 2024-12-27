@@ -1,4 +1,7 @@
-#Tham khảo bởi © 2024 Phan Xuan Quang / VNPAY.NET và bài này có tích hợp cơ sở dữ liệu MariaDB để lưu thông tin chuyển khoản  lại và xem 
+# Tham khảo bởi © 2024 Phan Xuan Quang / VNPAY.NET và bài này có tích hợp cơ sở dữ liệu MariaDB để lưu thông tin chuyển khoản.
+
+Xem mã nguồn và dự án tại gốc tại: [GitHub - Phan Xuan Quang / VNPAY.NET](https://github.com/phanxuanquang/VNPAY.NET.git)
+
 ![NuGet Version](https://img.shields.io/nuget/v/VNPAY.NET) ![NuGet Downloads](https://img.shields.io/nuget/dt/VNPAY.NET)
 
 ![VNPAY](https://i.imgur.com/gSi6svR.png)
