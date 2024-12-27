@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Backend API Testing</name>
+    </assembly>
+    <members>
+        <member name="M:Backend_API_Testing.Controllers.VnpayController.GetPayments(System.Int32,System.Int32,System.String)">
+            <summary>
+            Lấy danh sách các giao dịch thanh toán
+            </summary>
+            <param name="page"></param>
+            <param name="pageSize"></param>
+            <param name="sort"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Backend_API_Testing.Controllers.VnpayController.CreatePaymentUrl(System.Double,System.String)">
+            <summary>
+            Tạo url thanh toán
+            </summary>
+            <param name="money">Số tiền phải thanh toán</param>
+            <param name="description">Mô tả giao dịch</param>
+            <returns></returns>
+        </member>
+        <member name="M:Backend_API_Testing.Controllers.VnpayController.IpnAction">
+            <summary>
+            Thực hiện hành động sau khi thanh toán. URL này cần được khai báo với VNPAY trước (ví dụ: http://localhost:1234/api/Vnpay/IpnAction)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Backend_API_Testing.Controllers.VnpayController.PaymentCallback">
+            <summary>
+            Trả kết quả thanh toán về cho người dùng
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

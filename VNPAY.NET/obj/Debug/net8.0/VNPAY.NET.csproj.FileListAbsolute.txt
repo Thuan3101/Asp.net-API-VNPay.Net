@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\bin\Debug\net8.0\VNPAY.NET.deps.json
+C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\bin\Debug\net8.0\VNPAY.NET.dll
+C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\bin\Debug\net8.0\VNPAY.NET.pdb
+C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\obj\Debug\net8.0\VNPAY.NET.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\obj\Debug\net8.0\VNPAY.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\obj\Debug\net8.0\VNPAY.NET.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\obj\Debug\net8.0\VNPAY.NET.AssemblyInfo.cs
+C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\obj\Debug\net8.0\VNPAY.NET.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\obj\Debug\net8.0\VNPAY.NET.sourcelink.json
+C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\obj\Debug\net8.0\VNPAY.NET.dll
+C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\obj\Debug\net8.0\refint\VNPAY.NET.dll
+C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\obj\Debug\net8.0\VNPAY.NET.pdb
+C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\obj\Debug\net8.0\ref\VNPAY.NET.dll
+C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\bin\Debug\net8.0\VNPAY.NET.runtimeconfig.json
+C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\obj\Debug\net8.0\VNPAY.NET.genruntimeconfig.cache

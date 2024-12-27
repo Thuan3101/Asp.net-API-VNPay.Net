@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>VNPAY.NET</id>
+    <version>8.4.0</version>
+    <title>VNPAY.NET</title>
+    <authors>Phan Xuan Quang</authors>
+    <icon>Icon.png</icon>
+    <projectUrl>https://github.com/phanxuanquang/VNPAY.NET</projectUrl>
+    <description>Thư viện hỗ trợ tích hợp thanh toán VNPAY sử dụng cho .NET</description>
+    <copyright>© 2024 Phan Xuan Quang / VNPAY.NET</copyright>
+    <tags>vnpay, vnpay.net, payment,vnPay</tags>
+    <repository type="git" url="https://github.com/phanxuanquang/VNPAY.NET" commit="8d8e4e15365d927776d5d1139611eb62909af951" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Http.Abstractions" version="2.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.8" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.Relational" version="8.0.8" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="8.0.8" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Hosting" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net8.0/Icon.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\bin\Debug\net8.0\VNPAY.NET.runtimeconfig.json" target="lib\net8.0\VNPAY.NET.runtimeconfig.json" />
+    <file src="C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\bin\Debug\net8.0\VNPAY.NET.dll" target="lib\net8.0\VNPAY.NET.dll" />
+    <file src="C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\Icon.ico" target="content\Icon.ico" />
+    <file src="C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\Icon.ico" target="contentFiles\any\net8.0\Icon.ico" />
+    <file src="C:\Users\Admin\Downloads\APIVNPay\VNPAY.NET\VNPAY.NET\Icon.png" target="\Icon.png" />
+  </files>
+</package>
